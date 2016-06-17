@@ -1,0 +1,22 @@
+{
+  "name": "classy-classes",
+  "version": "1.0.0",
+  "description": "A set of useful classes using classy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "class",
+    "util"
+  ],
+  "author": "JDB",
+  "license": "MIT",
+  "devDependencies": {
+    "unexpected": "^10.13.2"
+  },
+  "dependencies": {
+    "classy": "^1.4.10",
+    "lodash": "^4.12.0"
+  }
+}
